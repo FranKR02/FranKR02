@@ -1,27 +1,18 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=40&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%8B%F0%9F%8F%BB;Soy+Frank+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h1>
-<p align="center">
-  
-<h3 align="center">☕ Desarrollador Backend Java 👨🏼‍💻</h3>
 
-<ul>
-  <li>👨🏻‍🎓 Actualmente estoy culminando la carrera de Ingeniería de Sistemas</li>
-  <li>🖥️ He desarrollado aplicaciones de escritorio con Java, Swing y Hibernate</li>
-  <li>📚 También he desarrollado con .NET Core</li>
-  <li>⚡ Tengo conocimientos básicos de programación Frontend</li>
-</ul>
+- ☕ Desarrollador Java Junior 👨🏼‍💻
+- 👨🏻‍🎓 Actualmente estoy culminando la carrera de Ingeniería de Sistemas.
+- 🖥️ He desarrollado aplicaciones de escritorio y Web con Java, Swing, Java EE, Spring boot, JPA, Hibernate.
+- 📚 También tengo experiencia en desarrollo con .NET Core.
+- ⚡ Tengo conocimientos básicos de programación Frontend.
 
-<h3 align="left">💌 Mis redes</h3>
-<div align="left">
-	<a href="https://www.linkedin.com/in/frank02/" target="_blank">
-		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/680449330552897677" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+## 💌 Mis redes
 
+- [LinkedIn](https://www.linkedin.com/in/frank02/)
+- [Discord](https://discord.com/users/680449330552897677)
+
+## 🛠️ Lenguajes y herramientas
 <div align="center">
-	<h3 align="left">🛠️ Lenguajes y herramientas</h3>
 	<table>
 		<tr>
 			<td valign="top" width="33%">
@@ -58,9 +49,7 @@
 	</table>  
 </div>
 
-<h3>📊 Estadísticas</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranKR02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&order=1&custom_title=Estadísticas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranKR02&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FranKR02&locale=es&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## 📊 Estadísticas
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=FranKR02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&order=1&custom_title=Estadísticas)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=FranKR02&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&order=2)
+![Streak](https://streak-stats.demolab.com?user=FranKR02&locale=es&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3)
