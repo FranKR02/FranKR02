@@ -2,7 +2,8 @@
 
 - ☕ Desarrollador Java Junior 👨🏼‍💻
 - 👨🏻‍🎓 Actualmente estoy culminando la carrera de Ingeniería de Sistemas.
-- 🖥️ He desarrollado aplicaciones de escritorio y Web con Java, Swing, Java EE, Spring boot, JPA, Hibernate.
+- 🖥️ He desarrollado aplicaciones de escritorio Java SE y Swing
+- 🍃 He desarrollado aplicaciones Web usando el ORM Hibernate con Java EE pero me enfocó más en Spring Framework con sus modulos Spring Boot y Spring Data JPA
 - 📚 También tengo experiencia en desarrollo con .NET Core.
 - ⚡ Tengo conocimientos básicos de programación Frontend.
 
