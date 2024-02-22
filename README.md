@@ -49,7 +49,7 @@
 		</tr>
 	</table>  
 </div>
-
+![Snake animation](https://github.com/FranKR02/FranKR02/blob/output/github-contribution-grid-snake.svg)
 ## 📊 Estadísticas
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=FranKR02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&order=1&custom_title=Estadísticas&random=321)
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=FranKR02&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&order=2&random=321)
